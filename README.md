@@ -2,6 +2,9 @@
 ## 前言
 本人大三的游戏编程课期末项目，还有很多待完善的地方...
 
+## 游戏截图
+![Image text](https://raw.githubusercontent.com/XiaoTang233/unity-2d-shooting-game/master/screenshoot/game-screenshoot.png)
+
 ## 开发工具
 * unity 3D 用于游戏建模
 * visual studio 使用c#编写游戏脚本
