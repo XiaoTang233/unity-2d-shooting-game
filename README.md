@@ -6,9 +6,9 @@
 <img src="https://raw.githubusercontent.com/XiaoTang233/unity-2d-shooting-game/master/screenshoot/game-screenshoot.png" width="400px" height="400px"/>
 
 ## 开发工具
-* unity 3D 用于游戏建模
-* visual studio 使用c#编写游戏脚本
-* Tiled 制作瓦片地图
+* `unity 3D` 用于游戏建模
+* `visual studio` 使用c#编写游戏脚本
+* `Tiled` 制作瓦片地图
 
 ## 运行平台
 Windows
